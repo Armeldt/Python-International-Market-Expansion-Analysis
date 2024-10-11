@@ -1,4 +1,4 @@
-# Python-International-Market-Expansion-Analysis
+# International market expansion analysis with Python
 
 ## Detailed Project Description:
 
