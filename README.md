@@ -1,5 +1,7 @@
 # International market expansion analysis with Python
 
+![logo ](https://github.com/Armeldt/Python-International-Market-Expansion-Analysis/blob/main/Ressouces/logo.png)
+
 ## Detailed Project Description:
 
 In this project, as part of my data analyst training, I worked on an international market analysis for La poule qui chante, a French agro-food company looking to expand its poultry exports. The objective was to identify clusters of countries that could be potential markets, using data from the Food and Agriculture Organization (FAO).
